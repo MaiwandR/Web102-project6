@@ -38,7 +38,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 Dur to API key units running out before recording the video I am unable to record it at this time. But feel free to test it by tomrrow it should work.
+
+Reason for late submission:
 [Spoonacular API Pricing](https://spoonacular.com/food-api/pricing)
+
+## Walkthrough
+[Walkthrouhg](https://youtu.be/nBW5nFuV6iA)
 
 Here's a walkthrough of implemented user stories:
 
